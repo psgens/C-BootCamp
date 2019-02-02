@@ -1,0 +1,7 @@
+C:\Users\Patrick\Desktop\C# Code\Foreach Loops\Foreach Loops\obj\Debug\Foreach Loops.csprojAssemblyReference.cache
+C:\Users\Patrick\Desktop\C# Code\Foreach Loops\Foreach Loops\obj\Debug\Foreach Loops.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Desktop\C# Code\Foreach Loops\Foreach Loops\bin\Debug\Foreach Loops.exe.config
+C:\Users\Patrick\Desktop\C# Code\Foreach Loops\Foreach Loops\bin\Debug\Foreach Loops.exe
+C:\Users\Patrick\Desktop\C# Code\Foreach Loops\Foreach Loops\bin\Debug\Foreach Loops.pdb
+C:\Users\Patrick\Desktop\C# Code\Foreach Loops\Foreach Loops\obj\Debug\Foreach Loops.exe
+C:\Users\Patrick\Desktop\C# Code\Foreach Loops\Foreach Loops\obj\Debug\Foreach Loops.pdb
