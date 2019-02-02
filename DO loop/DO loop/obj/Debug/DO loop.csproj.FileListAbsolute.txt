@@ -1,0 +1,7 @@
+C:\Users\Patrick\source\repos\DO loop\DO loop\obj\Debug\DO loop.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\DO loop\DO loop\bin\Debug\DO loop.exe.config
+C:\Users\Patrick\source\repos\DO loop\DO loop\bin\Debug\DO loop.exe
+C:\Users\Patrick\source\repos\DO loop\DO loop\bin\Debug\DO loop.pdb
+C:\Users\Patrick\source\repos\DO loop\DO loop\obj\Debug\DO loop.exe
+C:\Users\Patrick\source\repos\DO loop\DO loop\obj\Debug\DO loop.pdb
+C:\Users\Patrick\source\repos\DO loop\DO loop\obj\Debug\DO loop.csprojAssemblyReference.cache

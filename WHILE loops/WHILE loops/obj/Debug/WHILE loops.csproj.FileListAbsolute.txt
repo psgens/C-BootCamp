@@ -1,0 +1,6 @@
+C:\Users\Patrick\source\repos\WHILE loops\WHILE loops\obj\Debug\WHILE loops.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\WHILE loops\WHILE loops\bin\Debug\WHILE loops.exe.config
+C:\Users\Patrick\source\repos\WHILE loops\WHILE loops\bin\Debug\WHILE loops.exe
+C:\Users\Patrick\source\repos\WHILE loops\WHILE loops\bin\Debug\WHILE loops.pdb
+C:\Users\Patrick\source\repos\WHILE loops\WHILE loops\obj\Debug\WHILE loops.exe
+C:\Users\Patrick\source\repos\WHILE loops\WHILE loops\obj\Debug\WHILE loops.pdb

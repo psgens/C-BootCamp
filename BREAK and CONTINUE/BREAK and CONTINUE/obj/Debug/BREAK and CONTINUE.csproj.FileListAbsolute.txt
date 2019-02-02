@@ -1,0 +1,6 @@
+C:\Users\Patrick\source\repos\BREAK and CONTINUE\BREAK and CONTINUE\obj\Debug\BREAK and CONTINUE.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\BREAK and CONTINUE\BREAK and CONTINUE\bin\Debug\BREAK and CONTINUE.exe.config
+C:\Users\Patrick\source\repos\BREAK and CONTINUE\BREAK and CONTINUE\bin\Debug\BREAK and CONTINUE.exe
+C:\Users\Patrick\source\repos\BREAK and CONTINUE\BREAK and CONTINUE\bin\Debug\BREAK and CONTINUE.pdb
+C:\Users\Patrick\source\repos\BREAK and CONTINUE\BREAK and CONTINUE\obj\Debug\BREAK and CONTINUE.exe
+C:\Users\Patrick\source\repos\BREAK and CONTINUE\BREAK and CONTINUE\obj\Debug\BREAK and CONTINUE.pdb
