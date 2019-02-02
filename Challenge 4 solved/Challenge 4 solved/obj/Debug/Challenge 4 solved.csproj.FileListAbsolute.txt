@@ -1,0 +1,7 @@
+C:\Users\Patrick\source\repos\Challenge 4 solved\Challenge 4 solved\obj\Debug\Challenge 4 solved.csprojAssemblyReference.cache
+C:\Users\Patrick\source\repos\Challenge 4 solved\Challenge 4 solved\obj\Debug\Challenge 4 solved.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\Challenge 4 solved\Challenge 4 solved\bin\Debug\Challenge 4 solved.exe.config
+C:\Users\Patrick\source\repos\Challenge 4 solved\Challenge 4 solved\bin\Debug\Challenge 4 solved.exe
+C:\Users\Patrick\source\repos\Challenge 4 solved\Challenge 4 solved\bin\Debug\Challenge 4 solved.pdb
+C:\Users\Patrick\source\repos\Challenge 4 solved\Challenge 4 solved\obj\Debug\Challenge 4 solved.exe
+C:\Users\Patrick\source\repos\Challenge 4 solved\Challenge 4 solved\obj\Debug\Challenge 4 solved.pdb

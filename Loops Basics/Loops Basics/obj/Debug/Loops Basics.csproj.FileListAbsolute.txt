@@ -1,0 +1,6 @@
+C:\Users\Patrick\source\repos\Loops Basics\Loops Basics\bin\Debug\Loops Basics.exe.config
+C:\Users\Patrick\source\repos\Loops Basics\Loops Basics\bin\Debug\Loops Basics.exe
+C:\Users\Patrick\source\repos\Loops Basics\Loops Basics\bin\Debug\Loops Basics.pdb
+C:\Users\Patrick\source\repos\Loops Basics\Loops Basics\obj\Debug\Loops Basics.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\Loops Basics\Loops Basics\obj\Debug\Loops Basics.exe
+C:\Users\Patrick\source\repos\Loops Basics\Loops Basics\obj\Debug\Loops Basics.pdb

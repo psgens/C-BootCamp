@@ -1,0 +1,7 @@
+C:\Users\Patrick\Desktop\C# Code\Challange 4\Challange 4\bin\Debug\Challange 4.exe.config
+C:\Users\Patrick\Desktop\C# Code\Challange 4\Challange 4\bin\Debug\Challange 4.exe
+C:\Users\Patrick\Desktop\C# Code\Challange 4\Challange 4\bin\Debug\Challange 4.pdb
+C:\Users\Patrick\Desktop\C# Code\Challange 4\Challange 4\obj\Debug\Challange 4.csprojAssemblyReference.cache
+C:\Users\Patrick\Desktop\C# Code\Challange 4\Challange 4\obj\Debug\Challange 4.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Desktop\C# Code\Challange 4\Challange 4\obj\Debug\Challange 4.exe
+C:\Users\Patrick\Desktop\C# Code\Challange 4\Challange 4\obj\Debug\Challange 4.pdb

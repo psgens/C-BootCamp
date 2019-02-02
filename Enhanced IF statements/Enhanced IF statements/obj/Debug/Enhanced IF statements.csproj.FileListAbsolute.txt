@@ -1,0 +1,7 @@
+C:\Users\Patrick\source\repos\Enhanced IF statements\Enhanced IF statements\bin\Debug\Enhanced IF statements.exe.config
+C:\Users\Patrick\source\repos\Enhanced IF statements\Enhanced IF statements\bin\Debug\Enhanced IF statements.exe
+C:\Users\Patrick\source\repos\Enhanced IF statements\Enhanced IF statements\bin\Debug\Enhanced IF statements.pdb
+C:\Users\Patrick\source\repos\Enhanced IF statements\Enhanced IF statements\obj\Debug\Enhanced IF statements.csprojAssemblyReference.cache
+C:\Users\Patrick\source\repos\Enhanced IF statements\Enhanced IF statements\obj\Debug\Enhanced IF statements.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\Enhanced IF statements\Enhanced IF statements\obj\Debug\Enhanced IF statements.exe
+C:\Users\Patrick\source\repos\Enhanced IF statements\Enhanced IF statements\obj\Debug\Enhanced IF statements.pdb
