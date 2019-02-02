@@ -1,0 +1,7 @@
+C:\Users\Patrick\source\repos\User Input\User Input\obj\Debug\User Input.csprojAssemblyReference.cache
+C:\Users\Patrick\source\repos\User Input\User Input\obj\Debug\User Input.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\User Input\User Input\bin\Debug\User Input.exe.config
+C:\Users\Patrick\source\repos\User Input\User Input\bin\Debug\User Input.exe
+C:\Users\Patrick\source\repos\User Input\User Input\bin\Debug\User Input.pdb
+C:\Users\Patrick\source\repos\User Input\User Input\obj\Debug\User Input.exe
+C:\Users\Patrick\source\repos\User Input\User Input\obj\Debug\User Input.pdb
