@@ -1,0 +1,7 @@
+C:\Users\Patrick\Desktop\C# Code\Arrays as parameters\Arrays as parameters\obj\Debug\Arrays as parameters.csprojAssemblyReference.cache
+C:\Users\Patrick\Desktop\C# Code\Arrays as parameters\Arrays as parameters\obj\Debug\Arrays as parameters.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Desktop\C# Code\Arrays as parameters\Arrays as parameters\bin\Debug\Arrays as parameters.exe.config
+C:\Users\Patrick\Desktop\C# Code\Arrays as parameters\Arrays as parameters\bin\Debug\Arrays as parameters.exe
+C:\Users\Patrick\Desktop\C# Code\Arrays as parameters\Arrays as parameters\bin\Debug\Arrays as parameters.pdb
+C:\Users\Patrick\Desktop\C# Code\Arrays as parameters\Arrays as parameters\obj\Debug\Arrays as parameters.exe
+C:\Users\Patrick\Desktop\C# Code\Arrays as parameters\Arrays as parameters\obj\Debug\Arrays as parameters.pdb
