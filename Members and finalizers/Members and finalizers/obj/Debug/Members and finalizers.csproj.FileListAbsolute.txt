@@ -1,0 +1,7 @@
+c:\users\patrick\source\repos\Members and finalizers\Members and finalizers\bin\Debug\Members and finalizers.exe.config
+c:\users\patrick\source\repos\Members and finalizers\Members and finalizers\bin\Debug\Members and finalizers.exe
+c:\users\patrick\source\repos\Members and finalizers\Members and finalizers\bin\Debug\Members and finalizers.pdb
+c:\users\patrick\source\repos\Members and finalizers\Members and finalizers\obj\Debug\Members and finalizers.csprojAssemblyReference.cache
+c:\users\patrick\source\repos\Members and finalizers\Members and finalizers\obj\Debug\Members and finalizers.csproj.CoreCompileInputs.cache
+c:\users\patrick\source\repos\Members and finalizers\Members and finalizers\obj\Debug\Members and finalizers.exe
+c:\users\patrick\source\repos\Members and finalizers\Members and finalizers\obj\Debug\Members and finalizers.pdb

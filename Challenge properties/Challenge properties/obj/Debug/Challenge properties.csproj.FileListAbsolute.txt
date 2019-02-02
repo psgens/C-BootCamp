@@ -1,0 +1,7 @@
+c:\users\patrick\source\repos\Challenge properties\Challenge properties\obj\Debug\Challenge properties.csprojAssemblyReference.cache
+c:\users\patrick\source\repos\Challenge properties\Challenge properties\obj\Debug\Challenge properties.csproj.CoreCompileInputs.cache
+c:\users\patrick\source\repos\Challenge properties\Challenge properties\bin\Debug\Challenge properties.exe.config
+c:\users\patrick\source\repos\Challenge properties\Challenge properties\bin\Debug\Challenge properties.exe
+c:\users\patrick\source\repos\Challenge properties\Challenge properties\bin\Debug\Challenge properties.pdb
+c:\users\patrick\source\repos\Challenge properties\Challenge properties\obj\Debug\Challenge properties.exe
+c:\users\patrick\source\repos\Challenge properties\Challenge properties\obj\Debug\Challenge properties.pdb

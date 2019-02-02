@@ -1,0 +1,7 @@
+c:\users\patrick\source\repos\Properties and encapsulation\Properties and encapsulation\bin\Debug\Properties and encapsulation.exe.config
+c:\users\patrick\source\repos\Properties and encapsulation\Properties and encapsulation\bin\Debug\Properties and encapsulation.exe
+c:\users\patrick\source\repos\Properties and encapsulation\Properties and encapsulation\bin\Debug\Properties and encapsulation.pdb
+c:\users\patrick\source\repos\Properties and encapsulation\Properties and encapsulation\obj\Debug\Properties and encapsulation.csprojAssemblyReference.cache
+c:\users\patrick\source\repos\Properties and encapsulation\Properties and encapsulation\obj\Debug\Properties and encapsulation.csproj.CoreCompileInputs.cache
+c:\users\patrick\source\repos\Properties and encapsulation\Properties and encapsulation\obj\Debug\Properties and encapsulation.exe
+c:\users\patrick\source\repos\Properties and encapsulation\Properties and encapsulation\obj\Debug\Properties and encapsulation.pdb

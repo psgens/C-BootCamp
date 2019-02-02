@@ -1,0 +1,7 @@
+c:\users\patrick\source\repos\Declaring and Initializing Arrays\Declaring and Initializing Arrays\bin\Debug\Declaring and Initializing Arrays.exe.config
+c:\users\patrick\source\repos\Declaring and Initializing Arrays\Declaring and Initializing Arrays\bin\Debug\Declaring and Initializing Arrays.exe
+c:\users\patrick\source\repos\Declaring and Initializing Arrays\Declaring and Initializing Arrays\bin\Debug\Declaring and Initializing Arrays.pdb
+c:\users\patrick\source\repos\Declaring and Initializing Arrays\Declaring and Initializing Arrays\obj\Debug\Declaring and Initializing Arrays.csprojAssemblyReference.cache
+c:\users\patrick\source\repos\Declaring and Initializing Arrays\Declaring and Initializing Arrays\obj\Debug\Declaring and Initializing Arrays.csproj.CoreCompileInputs.cache
+c:\users\patrick\source\repos\Declaring and Initializing Arrays\Declaring and Initializing Arrays\obj\Debug\Declaring and Initializing Arrays.exe
+c:\users\patrick\source\repos\Declaring and Initializing Arrays\Declaring and Initializing Arrays\obj\Debug\Declaring and Initializing Arrays.pdb
