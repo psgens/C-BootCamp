@@ -1,0 +1,7 @@
+C:\Users\Patrick\Desktop\C# Code\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Patrick\Desktop\C# Code\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Patrick\Desktop\C# Code\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Patrick\Desktop\C# Code\ConsoleApp2\ConsoleApp2\obj\Debug\Challenge 3.csprojAssemblyReference.cache
+C:\Users\Patrick\Desktop\C# Code\ConsoleApp2\ConsoleApp2\obj\Debug\Challenge 3.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Desktop\C# Code\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Patrick\Desktop\C# Code\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

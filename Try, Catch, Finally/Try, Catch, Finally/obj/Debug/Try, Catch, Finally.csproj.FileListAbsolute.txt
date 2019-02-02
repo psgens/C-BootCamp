@@ -1,0 +1,7 @@
+C:\Users\Patrick\source\repos\Try, Catch, Finally\Try, Catch, Finally\obj\Debug\Try, Catch, Finally.csprojAssemblyReference.cache
+C:\Users\Patrick\source\repos\Try, Catch, Finally\Try, Catch, Finally\obj\Debug\Try, Catch, Finally.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\Try, Catch, Finally\Try, Catch, Finally\bin\Debug\Try, Catch, Finally.exe.config
+C:\Users\Patrick\source\repos\Try, Catch, Finally\Try, Catch, Finally\bin\Debug\Try, Catch, Finally.exe
+C:\Users\Patrick\source\repos\Try, Catch, Finally\Try, Catch, Finally\bin\Debug\Try, Catch, Finally.pdb
+C:\Users\Patrick\source\repos\Try, Catch, Finally\Try, Catch, Finally\obj\Debug\Try, Catch, Finally.exe
+C:\Users\Patrick\source\repos\Try, Catch, Finally\Try, Catch, Finally\obj\Debug\Try, Catch, Finally.pdb
